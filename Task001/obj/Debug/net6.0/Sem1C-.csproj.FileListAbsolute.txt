@@ -1,0 +1,15 @@
+C:\Users\Данил\Desktop\0semC#\Sem1C-\bin\Debug\net6.0\Sem1C-.exe
+C:\Users\Данил\Desktop\0semC#\Sem1C-\bin\Debug\net6.0\Sem1C-.deps.json
+C:\Users\Данил\Desktop\0semC#\Sem1C-\bin\Debug\net6.0\Sem1C-.runtimeconfig.json
+C:\Users\Данил\Desktop\0semC#\Sem1C-\bin\Debug\net6.0\Sem1C-.dll
+C:\Users\Данил\Desktop\0semC#\Sem1C-\bin\Debug\net6.0\Sem1C-.pdb
+C:\Users\Данил\Desktop\0semC#\Sem1C-\obj\Debug\net6.0\Sem1C-.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\0semC#\Sem1C-\obj\Debug\net6.0\Sem1C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\0semC#\Sem1C-\obj\Debug\net6.0\Sem1C-.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\0semC#\Sem1C-\obj\Debug\net6.0\Sem1C-.AssemblyInfo.cs
+C:\Users\Данил\Desktop\0semC#\Sem1C-\obj\Debug\net6.0\Sem1C-.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\0semC#\Sem1C-\obj\Debug\net6.0\Sem1C-.dll
+C:\Users\Данил\Desktop\0semC#\Sem1C-\obj\Debug\net6.0\refint\Sem1C-.dll
+C:\Users\Данил\Desktop\0semC#\Sem1C-\obj\Debug\net6.0\Sem1C-.pdb
+C:\Users\Данил\Desktop\0semC#\Sem1C-\obj\Debug\net6.0\Sem1C-.genruntimeconfig.cache
+C:\Users\Данил\Desktop\0semC#\Sem1C-\obj\Debug\net6.0\ref\Sem1C-.dll
