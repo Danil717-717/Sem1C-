@@ -1,3 +1,8 @@
-﻿int number = 7;
+﻿//Напишите программу, которая на вход 
+//принимает число и выдаёт его квадрат 
+
+Console.Write("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
 int result = number*number;
-Console.WriteLine(result);
+Console.Write($"Квадрат числа {number}: ");
+Console.Write(result);
