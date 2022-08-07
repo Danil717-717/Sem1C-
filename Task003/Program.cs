@@ -32,4 +32,7 @@ else if (number1 == 7)
 {
     Console.Write("Воскресенье");
 }
-
+else
+{
+    Console.Write("Нужно от 1 до 7!");
+}
