@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Данил\\Desktop\\0semC#\\Sem1C-\\Task001\\Sem1C-.csproj": {}
+    "C:\\Users\\Данил\\Desktop\\0semC#\\Sem1C--1\\Task001\\Sem1C-.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Данил\\Desktop\\0semC#\\Sem1C-\\Task001\\Sem1C-.csproj": {
+    "C:\\Users\\Данил\\Desktop\\0semC#\\Sem1C--1\\Task001\\Sem1C-.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Данил\\Desktop\\0semC#\\Sem1C-\\Task001\\Sem1C-.csproj",
+        "projectUniqueName": "C:\\Users\\Данил\\Desktop\\0semC#\\Sem1C--1\\Task001\\Sem1C-.csproj",
         "projectName": "Sem1C-",
-        "projectPath": "C:\\Users\\Данил\\Desktop\\0semC#\\Sem1C-\\Task001\\Sem1C-.csproj",
+        "projectPath": "C:\\Users\\Данил\\Desktop\\0semC#\\Sem1C--1\\Task001\\Sem1C-.csproj",
         "packagesPath": "C:\\Users\\Данил\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Данил\\Desktop\\0semC#\\Sem1C-\\Task001\\obj\\",
+        "outputPath": "C:\\Users\\Данил\\Desktop\\0semC#\\Sem1C--1\\Task001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Данил\\AppData\\Roaming\\NuGet\\NuGet.Config"
